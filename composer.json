@@ -1,0 +1,20 @@
+{
+    "name": "treinaweb/brmoney",
+    "description": "Money formatter for brazilians",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonardo Tumadjian",
+            "email": "tumadjian@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BrMoney\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
